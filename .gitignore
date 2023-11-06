@@ -1,0 +1,11 @@
+# Ignore build artifacts
+build/
+
+# Ignore log files
+*.log
+
+# Ignore Node.js modules
+node_modules/
+
+
+ src/Vids/videoplayback.mp4
